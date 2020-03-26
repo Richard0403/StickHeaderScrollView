@@ -6,12 +6,6 @@ ScrollableLayout
 
 easy to add a headview for any view and supports sticking the navigator on the top when ItemView scrolls.
 
-fork and change on [https://github.com/cpoopc/ScrollableLayout](https://github.com/cpoopc/ScrollableLayout) 
-
-scrolling is not smooth, especially on some models .
-
-another choice 「 [w446108264/StickHeaderLayout](https://github.com/w446108264/StickHeaderLayout) 」
- 
 # Features
 
 * API > 11 
@@ -20,39 +14,25 @@ another choice 「 [w446108264/StickHeaderLayout](https://github.com/w446108264/
 * Support dynamic headview
 * Easy to add a headview for any view
  
-![Art](https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif)
+![Art](https://github.com/Richard0403/StickHeaderScrollView/raw/master/output/show.gif)
 
 
 # Screen Recrod
   
-<img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/p2.jpg" width="24%" /> 
-<img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/p4.jpg" width="24%" /> 
-<img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/p5.jpg" width="24%" />
-<img src="https://github.com/w446108264/ScrollableLayout/raw/master/output/p6.jpg" width="24%" /> 
+<img src="https://github.com/Richard0403/StickHeaderScrollView/raw/master/output/p2.jpg" width="24%" /> 
+<img src="https://github.com/Richard0403/StickHeaderScrollView/raw/master/output/p4.jpg" width="24%" /> 
+<img src="https://github.com/Richard0403/StickHeaderScrollView/raw/master/output/p5.jpg" width="24%" />
+<img src="https://github.com/Richard0403/StickHeaderScrollView/raw/master/output/p6.jpg" width="24%" /> 
   
 # Samples
-
-You can [download a sample APK](https://github.com/w446108264/ScrollableLayout/raw/master/output/simple.apk) 
-
  
 # Gradle Dependency
 
 Users of your library will need add the jitpack.io repository:
 
-```xml  
-allprojects {
-    repositories {
-        jcenter()
-        maven { url "https://jitpack.io" }
-    }
-}
-```
-
-and:
-
 ```xml
 dependencies { 
-   compile 'com.github.w446108264:ScrollableLayout:1.0.3'
+   implementation 'cc.finder:stickheader:1.0.1'
 }
 ```
 
@@ -106,12 +86,6 @@ dependencies {
 
 ```
  
- 
-# Contact & Help
-
-Please fell free to contact me if there is any problem when using the library.
-
-* email: shengjun8486@gmail.com 
 
  
 
