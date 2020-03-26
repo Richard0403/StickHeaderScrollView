@@ -1,8 +1,6 @@
 ScrollableLayout
 ======================
 
-> j.s 🇨🇳
-
 
 easy to add a headview for any view and supports sticking the navigator on the top when ItemView scrolls.
 
@@ -14,7 +12,6 @@ easy to add a headview for any view and supports sticking the navigator on the t
 * Support dynamic headview
 * Easy to add a headview for any view
  
-![Art](https://github.com/Richard0403/StickHeaderScrollView/raw/master/output/show.gif)
 
 
 # Screen Recrod
