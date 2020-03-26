@@ -4,6 +4,11 @@ ScrollableLayout
 
 easy to add a headview for any view and supports sticking the navigator on the top when ItemView scrolls.
 
+ checked from https://github.com/w446108264/ScrollableLayout
+ 
+ and updated it to Androidx
+
+
 # Features
 
 * API > 11 
@@ -11,7 +16,6 @@ easy to add a headview for any view and supports sticking the navigator on the t
 * Support pulltoRefresh and loadmore
 * Support dynamic headview
 * Easy to add a headview for any view
- 
 
 
 # Screen Recrod
